@@ -31,7 +31,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 🌱 Atualmente aprendendo
 
 - Python
 - Estruturas de Dados
@@ -39,18 +39,4 @@
 - SQL
 
 ---
-
-## ⭐ Projetos
-
-- 🔐 Password Generator *(Em breve)*
-- 🕷️ Web Scraping *(Em breve)*
-- 📺 Friends Project *(Em breve)*
-
----
-
-```python
-while not hired:
-    study()
-    build_projects()
-    improve()
-```
+> 💜 *"Transformando aprendizado em projetos, um commit de cada vez."*
