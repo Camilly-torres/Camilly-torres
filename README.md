@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Camilly-torres/Camilly-torres/blob/main/banner.png.png?raw=true" alt="Banner" width="100%">
+</p>
 <h1 align="center">👋 Olá! Eu sou a Camilly Torres</h1>
 
 <p align="center">
